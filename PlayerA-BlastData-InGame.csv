@@ -5,7 +5,7 @@ Academy:,Unknown,,,,,,,,,,,,,,,,,,
 Report Date:,9/23/2022 9:06,,,,,,,,,,,,,,,,,,
 Date Range:,"Feb 24, 2021 - Apr 6, 2021",,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
-Date,Equipment,Handedness,Swing Details,Plane Score,Connection Score,Rotation Score,Bat Speed (mph),Rotational Acceleration (g),On Plane Efficiency (%),Attack Angle (deg),Early Connection (deg),Connection at Impact (deg),Vertical Bat Angle (deg),Power (kW),Time to Contact (sec),Peak Hand Speed (mph),Exit Velocity (mph),Launch Angle (deg),Estimated Distance (feet)
+Date,Equipment,Handedness,SwingDetails,PlaneScore,ConnectionScore,RotationScore,BatSpeed,RotationalAcceleration,OnPlaneEfficiency,AttackAngle,EarlyConnection,ConnectionatImpact,VerticalBatAngle,Power,TimetoContact,PeakHandSpeed,ExitVelocity,LaunchAngle,EstimatedDistance
 2/24/2021,Quick Start,Right,In Game,57,56,50,56.2,13,74,19,74,88,-31,2.68,0.15,17.4,,,
 2/24/2021,Quick Start,Right,In Game,46,55,48,63.1,12.2,63,15,106,87,-22,3.29,0.15,19.7,,,
 3/17/2021,Quick Start,Right,In Game,49,67,48,61.4,12.2,66,16,97,94,-35,3,0.16,19,,,
